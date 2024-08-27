@@ -1,0 +1,105 @@
+{
+    "settings": {
+        "siteName": "hamed",
+        "preloader": true
+    },
+    "header": {
+        "logo": {
+            "image": "/images/logo-black.png",
+            "image_white": "/images/logo-main.png",
+            "alt": "logo"
+        },
+        "menu": [
+            {
+                "label": "خانه",
+                "link": "/",
+                "children": 0
+            },
+            {
+                "label": "درباره ما",
+                "link": "/about",
+                "children": 0       
+            },
+            {
+                "label": "خدمات ما",
+                "link": "/services",
+                "children": 0       
+            },
+            {
+                "label": "نمونه کارها",
+                "link": "/projects",
+                "children": 0
+            },
+            {
+                "label": "وبلاگ",
+                "link": "/blog",
+                "children": 0
+            },
+            {
+                "label": "تماس با ما",
+                "link": "/contact",
+                "children": 0
+            },
+            {
+                "label": "تیم ما",
+                "link": "/team",
+                "children": 0
+            }
+        ]
+    },
+    "footer": {
+        "logo": {
+            "image": "/images/logo-black.png",
+            "alt": "logo"
+        },
+        "gallery": [
+            {
+                "image": "/images/post5-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post4-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post3-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post4-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post1-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/post6-1024x683.jpg",
+                "title": "image",
+                "alt": "image"
+            }
+        ]
+    },
+    "social": [
+        {
+            "link": "https://facebook.com",
+            "icon": "fab fa-facebook",
+            "title": "Facebook"
+        },
+        {
+            "link": "https://twitter.com",
+            "icon": "fab fa-twitter",
+            "title": "Twitter"
+        },
+        {
+            "link": "https://linkedin.com",
+            "icon": "fab fa-linkedin",
+            "title": "Linkedin"
+        }
+    ]
+}
